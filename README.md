@@ -24,6 +24,7 @@ Help us **democratize high-frequency trading** and make powerful trading algorit
 
 * [Docs](https://docs.hummingbot.org): Check out the official Hummingbot documentation
 * [Installation](https://hummingbot.org/installation/): Install Hummingbot on various platforms
+* [Basic Operations](https://docs.hummingbot.org/operation/): Get started and know the basics
 * [FAQs](https://hummingbot.org/faq/): Answers to all your burning questions
 * [Botcamp](https://hummingbot.org/botcamp/): Learn how build your own custom HFT strategy in Hummingbot with our hands-on bootcamp!
 * [HBOT](https://hummingbot.org/hbot/): Learn how you can decide how this codebase evolves by voting with HBOT tokens 
